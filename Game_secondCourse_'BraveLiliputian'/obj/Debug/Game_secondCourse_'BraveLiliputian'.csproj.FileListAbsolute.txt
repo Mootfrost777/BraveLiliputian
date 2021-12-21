@@ -1,0 +1,7 @@
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\bin\Debug\Game_secondCourse_'BraveLiliputian'.exe.config
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\bin\Debug\Game_secondCourse_'BraveLiliputian'.exe
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\bin\Debug\Game_secondCourse_'BraveLiliputian'.pdb
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\obj\Debug\Game_secondCourse_'BraveLiliputian'.csprojAssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\obj\Debug\Game_secondCourse_'BraveLiliputian'.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\obj\Debug\Game_secondCourse_'BraveLiliputian'.exe
+C:\Users\Semejkin_AV\Desktop\Projects\Game_secondCourse_'BraveLiliputian'\Game_secondCourse_'BraveLiliputian'\obj\Debug\Game_secondCourse_'BraveLiliputian'.pdb
